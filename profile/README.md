@@ -51,9 +51,9 @@ clients and errors, money helpers and webhook handling. MIT licensed, on
 
 | | |
 |---|---|
-| [**squareup**](https://github.com/mbates/squareup) | Square, 14 services, webhooks for Express, Lambda and Next.js |
-| [**stripe**](https://github.com/mbates/stripe) | Stripe, with webhooks for Node.js backends and edge runtimes |
-| [**clover**](https://github.com/mbates/clover) | Clover Ecommerce and Platform APIs, edge-ready, no dependencies |
+| [**squareup**](https://github.com/Bates-Solutions/payments/tree/main/packages/squareup) | Square, 14 services, webhooks for Express, Lambda and Next.js |
+| [**stripe**](https://github.com/Bates-Solutions/payments/tree/main/packages/stripe) | Stripe, with webhooks for Node.js backends and edge runtimes |
+| [**clover**](https://github.com/Bates-Solutions/payments/tree/main/packages/clover) | Clover Ecommerce and Platform APIs, edge-ready, no dependencies |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bates-Solutions/.github/main/profile/assets/section-contact-dark.png">
