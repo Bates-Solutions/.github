@@ -16,7 +16,8 @@ GitHub uses these in every public repository in the organisation that doesn't ha
 - [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md)
 - [`PULL_REQUEST_TEMPLATE.md`](PULL_REQUEST_TEMPLATE.md)
 - [`ISSUE_TEMPLATE/`](ISSUE_TEMPLATE): bug report and feature request forms. Blank issues are off,
-  and vulnerability reports point at `SECURITY.md`.
+  and vulnerability reports point at `SECURITY.md`. A repo with any file in its own
+  `.github/ISSUE_TEMPLATE/` gets none of these, `config.yml` included, so it needs its own.
 
 ## READMEs
 
