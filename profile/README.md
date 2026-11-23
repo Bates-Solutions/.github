@@ -47,13 +47,22 @@ outgrown the people who built them. You talk to the person writing the code.
 
 TypeScript SDKs for Square, Stripe and Clover, with one design across all three: typed service
 clients and errors, money helpers and webhook handling. MIT licensed, on
-[JSR](https://jsr.io/@bates-solutions).
+[JSR](https://jsr.io/@bates-solutions). The code is in one repo,
+[payments](https://github.com/Bates-Solutions/payments), with docs at
+[bates-solutions.github.io/payments](https://bates-solutions.github.io/payments/).
 
 | | |
 |---|---|
-| [**squareup**](https://github.com/Bates-Solutions/payments/tree/main/packages/squareup) | Square, 14 services, webhooks for Express, Lambda and Next.js |
+| [**squareup**](https://github.com/Bates-Solutions/payments/tree/main/packages/squareup) | Square, 16 services, webhooks for Express, Lambda and Next.js |
 | [**stripe**](https://github.com/Bates-Solutions/payments/tree/main/packages/stripe) | Stripe, with webhooks for Node.js backends and edge runtimes |
 | [**clover**](https://github.com/Bates-Solutions/payments/tree/main/packages/clover) | Clover Ecommerce and Platform APIs, edge-ready, no dependencies |
+
+Browser extensions for Chrome and Firefox, also MIT licensed:
+
+| | |
+|---|---|
+| [**youtube-dont-recommend**](https://github.com/Bates-Solutions/youtube-dont-recommend) | Tell YouTube "Don't recommend channel" while you watch, with one click or Shift+B |
+| [**youtube-sidebar-scroll**](https://github.com/Bates-Solutions/youtube-sidebar-scroll) | Scroll the recommended videos without scrolling the video out of view |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bates-Solutions/.github/main/profile/assets/section-contact-dark.png">
